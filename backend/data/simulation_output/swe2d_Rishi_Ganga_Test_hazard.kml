@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="12">
+        <Style id="19">
+            <LineStyle id="21">
+                <color>ff000000</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="20">
+                <color>3f0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Placemark id="14">
+            <name>Hazard: Extreme</name>
+            <styleUrl>#19</styleUrl>
+            <Polygon id="13">
+                <outerBoundaryIs>
+                    <LinearRing id="17">
+                        <coordinates>79.5,30.5,0.0 79.5,30.49946,0.0 79.50027,30.49946,0.0 79.50027,30.49973,0.0 79.54023,30.49973,0.0 79.54023,30.49946,0.0 79.5405,30.49946,0.0 79.5405,30.5,0.0 79.5,30.5,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>

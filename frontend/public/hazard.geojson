@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "swe2d_Rishi_Ganga_Test_hazard",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "hazard_class": "Extreme" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 79.5, 30.5 ], [ 79.5, 30.49946 ], [ 79.50027, 30.49946 ], [ 79.50027, 30.49973 ], [ 79.54023, 30.49973 ], [ 79.54023, 30.49946 ], [ 79.5405, 30.49946 ], [ 79.5405, 30.5 ], [ 79.5, 30.5 ] ] ] } }
+]
+}
